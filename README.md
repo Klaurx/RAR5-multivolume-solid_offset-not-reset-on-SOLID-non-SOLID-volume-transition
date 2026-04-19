@@ -19,4 +19,4 @@ See [PoC/trigger_solid_offset.c](PoC/trigger_solid_offset.c).
 
 ## License
 
-GPL-3.0. See [LICENSE](LICENSE).
+See [LICENSE](LICENSE).
