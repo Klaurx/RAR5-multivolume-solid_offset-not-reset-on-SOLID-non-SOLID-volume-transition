@@ -20,3 +20,8 @@ See [PoC/trigger_solid_offset.c](PoC/trigger_solid_offset.c).
 ## License
 
 See [LICENSE](LICENSE).
+
+Authors:
+Klaurx the divine
+
+Slowdive — ballad of the dead
